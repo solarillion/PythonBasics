@@ -3,3 +3,6 @@ pandas
 matplotlib
 jupyter
 jupyterlab
+pycodestyle
+flake8
+pycodestyle_magic
