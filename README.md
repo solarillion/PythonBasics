@@ -19,9 +19,11 @@ To get your assignments verified, follow these instructions:
 * Fill in the **Payload URL** and **Secret** from the **message TARS sent you** earlier. <br>
 * Also change the **Content Type** to **application/json** and finally click the Add webhook button. <br>
 * Upload the files containing your code for verification <br>
+
 You must follow these instructions exactly, or your assignments will not be verified. You may now do your assignments, and if you are familiar with Git, use the Command Line Interface. If you are not using Git on your Terminal and are using GitHub's GUI, please follow this process:
 * Delete the module you want to update, in your GitHub repository. <br>
 * Upload the updated module file to GitHub with the same file name. <br>
 * For example, if you're updating your Module 1 code, delete Module1.ipynb on GitHub (not your local folder) and upload your latest version of Module1.ipynb to GitHub. <br>
+
 The assignments will be automatically verified by Hyouka, our code evaluator. It will notify you of any errors or unexpected problems in your code via our bot, TARS. In case further verification by a TA is required, you will be informed by TARS. Contact a TA if you have any queries. <br><br>
 Good luck, and have fun!
